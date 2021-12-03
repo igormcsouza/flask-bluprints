@@ -1,0 +1,1 @@
+from blueprints.user.main import init_app
